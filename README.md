@@ -1,7 +1,13 @@
-### 👋 Hey, I'm Muhsin (Muhammed Muhsin M)
+<h1 align="center">Hey, I'm Muhsin 👋</h1>
+<h3 align="center">B.Tech AI & Data Science @ KGiSL Institute of Technology | Sem 3</h3>
 
-🚀 B.Tech AI & Data Science — Semester 3, KGiSL Institute of Technology
-☁️ Specializing in **Cloud & DevOps** | AWS certification track
+<p align="center">
+☁️ Building toward <b>MLOps Engineer</b> | AWS Certification Track | Cloud & DevOps specialization
+</p>
+
+<p align="center">
+🎓 CGPA: 8.52 &nbsp;|&nbsp; 🎯 Milestone Goal: GSoC 2027 (CNCF / Devtron)
+</p>
 
 ---
 
@@ -9,36 +15,54 @@
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Bash](https://skillicons.dev/icons?i=bash) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Bash](https://skillicons.dev/icons?i=bash) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js)
 
-**Tools**
+**Tools & Platforms**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) 
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![AWS](https://skillicons.dev/icons?i=aws)
 
-**Tools to Worked On**
+**Currently Learning**
 
 ![Ansible](https://skillicons.dev/icons?i=ansible) ![Terraform](https://skillicons.dev/icons?i=terraform)
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-- **Personal Portfolio Website** — HTML/CSS/JS
-- **Local AI Assistant Stack** — Ollama + Docker + Open WebUI
-- **ODE Solver** — Euler, Improved Euler, RK2, RK3 with animated graphing
-- **Solar Tracker** — Arduino hardware project, working prototype at college math expo
-- **Euler's & Runge-Kutta Numerical Methods UI** — comparison graphs
-
----
-
-### 🎯 Current Goals
-
-Python (stronger) → Bash → YAML → Dockerfiles → C++ & SQL (DSA for AI & DS)
-
-AWS: Cloud Practitioner → Solutions Architect Associate → Terraform/CKA → DevOps Engineer Professional
+| Project | Description |
+|---|---|
+| [**Euler ODE Solver**](https://github.com/muhsinaids/ODE_method_solver) | Numerical methods UI solving ODEs with Euler's and Runge-Kutta methods, comparison graphs |
+| [**football-comparer**](https://github.com/muhsinaids/football-comparer) | FastAPI backend + vanilla JS frontend comparing player stats via API-Football |
+| [**codem_all**](https://github.com/muhsinaids/codem_all) | Daily DSA practice solved in Python, C, and Java side-by-side (diamond method) |
+| [**bash-scripts**](https://github.com/muhsinaids/bash-scripts) | Progressive bash scripting series — functions, flag parsing, logging, error handling |
+| [**Solar Tracker**](https://github.com/muhsinaids) | Arduino-based hardware project — only working prototype among 48 teams at college expo |
+| [**Portfolio Site**](https://muhsinaids.github.io) | Personal site built with HTML/CSS/JS, dark aesthetic |
 
 ---
 
-### 📫 Contact
+### 🎯 Roadmap
 
-muhsinbinmubarak11@gmail.com
+**Languages:** Python (core) → C++ (DSA) → SQL → JavaScript → Bash
+**Cloud/DevOps:** YAML → Dockerfiles → Terraform (HCL) → Ansible
+**AWS Track:** Cloud Practitioner → Solutions Architect Associate → Terraform/CKA → DevOps Engineer Professional
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muhsinaids&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsinaids&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinaids&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📫 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhsinaids.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinbinmubarak11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhsinaids)
