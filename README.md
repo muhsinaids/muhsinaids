@@ -42,27 +42,14 @@
 
 ### 🎯 Roadmap
 
-**Languages:** Python (core) → C++ (DSA) → SQL → JavaScript → Bash
-**Cloud/DevOps:** YAML → Dockerfiles → Terraform (HCL) → Ansible
-**AWS Track:** Cloud Practitioner → Solutions Architect Associate → Terraform/CKA → DevOps Engineer Professional
+|**Languages:** Python (core) → C++ (DSA) → SQL → JavaScript → Bash |
+|**Cloud/DevOps:** YAML → Dockerfiles → Terraform (HCL) → Ansible |
+|**AWS Track:** Cloud Practitioner → Solutions Architect Associate → Terraform/CKA → DevOps Engineer Professional |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhsinaids&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsinaids&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinaids&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ### 📫 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhsinaids.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsinbinmubarak11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhsinaids)
