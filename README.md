@@ -42,9 +42,7 @@
 
 ### 🎯 Roadmap
 
-|**Languages:** Python (core) → C++ (DSA) → SQL → JavaScript → Bash |
-|**Cloud/DevOps:** YAML → Dockerfiles → Terraform (HCL) → Ansible |
-|**AWS Track:** Cloud Practitioner → Solutions Architect Associate → Terraform/CKA → DevOps Engineer Professional |
+**Languages:** Python (core) → C++ (DSA) → SQL → JavaScript → Bash<br> **Cloud/DevOps:** YAML → Dockerfiles → Terraform (HCL) → Ansible<br> **AWS Track:** Cloud Practitioner → Solutions Architect Associate → Terraform/CKA → DevOps Engineer Professional
 
 ---
 
