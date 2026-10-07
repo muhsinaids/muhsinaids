@@ -13,9 +13,9 @@
 
 <h4 align="center"> 🛠️ Languages & Tools </h4>
 
-<h5 align="center"> **Languages** </h5>
+ **Languages** 
 
-<h6 align="center"> ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Bash](https://skillicons.dev/icons?i=bash) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) </h6>
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Bash](https://skillicons.dev/icons?i=bash) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js)
 
 **Tools & Platforms**
 
