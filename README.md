@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech AI & Data Science @ KGiSL Institute of Technology | Sem 3</h3>
 
 <p align="center">
-☁️ Building toward <b>MLOps Engineer</b> | AWS Certification Track | Cloud & DevOps specialization
+☁️ Building toward <b>Cloud & DevOps × AI/DS </b> | AWS Certification Track
 </p>
 
 <p align="center">
